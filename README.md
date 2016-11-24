@@ -27,7 +27,7 @@ python bin/spider.py --seed-user
 然后运行
 
 ```
-python spider.py
+python bin/spider.py
 ```
 
 此时爬虫已经开始工作了。 数据库中就能看到对应的信息了。
